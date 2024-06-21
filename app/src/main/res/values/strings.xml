@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CARE</string>
+    <string name="create_account">Don\'t have any account?</string>
+
+    <string name="account_setting">Account Settings</string>
+
+    //welcome splashscreen
+    <string name="welcome_image_description">Welcome Image</string>
+    <string name="welcome_heading">Welcome</string>
+    <string name="welcome_subheading">Together we help them understand and manage their emotions</string>
+
+    //login screen
+    <string name="login_image">Login Illustration</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Let\'s get started.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    //sign up screen
+
+
+    //forgot password screen
+    <string name="forgot_password_screen">Forgot Password</string>
+
+
+    //home screen
+
+
+    //features screen
+
+
+    //result screen
+    <string name="result_image_description">Result Image</string>
+
+
+    //settings screen
+    <string name="edit_profile_button">Confirm</string>
+
+</resources>
